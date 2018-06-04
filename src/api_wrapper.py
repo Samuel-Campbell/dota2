@@ -12,10 +12,6 @@ latest_match_id = 3933473953
 # desired size of data set
 data_size = 100
 
-match_dict = {}
-heroes_dict = {}
-items_dict = {}
-
 try:
     # init key from environment variables
     api = dota2api.Initialise()
@@ -23,6 +19,10 @@ try:
 except APIAuthenticationError:
     # init key from api_key variable
     api = dota2api.Initialise(api_key=api_key)
+
+match_dict = {}
+heroes_dict = api.get_heroes()
+items_dict = api.get_game_items()
 
 original_data_size = data_size * 1.0
 
