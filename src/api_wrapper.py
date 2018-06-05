@@ -10,7 +10,7 @@ api_key = "78AB51DECA9BAA091DC09D0FEFED65EE"
 latest_match_id = 3933473953
 
 # desired size of data set
-data_size = 100
+data_size = 1000
 
 try:
     # init key from environment variables
