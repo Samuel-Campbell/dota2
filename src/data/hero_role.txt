@@ -1,0 +1,156 @@
+{| class="wikitable"
+!colspan=8| ■■■ Carry
+|-
+|{{HeroIcon|am}}{{HeroIcon|arc}}{{HeroIcon|ck}}{{HeroIcon|gyro}}{{HeroIcon|medusa}}{{HeroIcon|morph}}{{HeroIcon|naga}}{{HeroIcon|pa}}<br>{{HeroIcon|sniper}}{{HeroIcon|spectre}}{{HeroIcon|tb}}{{HeroIcon|tiny}}{{HeroIcon|troll}}
+|-
+!colspan=8| ■■ Carry
+|-
+|{{HeroIcon|alch}}{{HeroIcon|bb}}{{HeroIcon|dk}}{{HeroIcon|huskar}}{{HeroIcon|ls}}{{HeroIcon|lycan}}{{HeroIcon|mk}}{{HeroIcon|slardar}}<br>{{HeroIcon|sven}}{{HeroIcon|wk}}{{HeroIcon|clinkz}}{{HeroIcon|drow}}{{HeroIcon|ember}}{{HeroIcon|void}}{{HeroIcon|jugg}}{{HeroIcon|ld}}<br>{{HeroIcon|luna}}{{HeroIcon|meepo}}{{HeroIcon|pl}}{{HeroIcon|razor}}{{HeroIcon|riki}}{{HeroIcon|sf}}{{HeroIcon|slark}}{{HeroIcon|ta}}<br>{{HeroIcon|ursa}}{{HeroIcon|weaver}}{{HeroIcon|od}}{{HeroIcon|storm}}{{HeroIcon|pangolier}}
+|-
+!colspan=8| ■ Carry
+|-
+|{{HeroIcon|abaddon}}{{HeroIcon|brew}}{{HeroIcon|doom}}{{HeroIcon|kunkka}}{{HeroIcon|lc}}{{HeroIcon|ns}}{{HeroIcon|sb}}{{HeroIcon|bs}}<br>{{HeroIcon|brood}}{{HeroIcon|mirana}}{{HeroIcon|viper}}{{HeroIcon|dp}}{{HeroIcon|invoker}}{{HeroIcon|leshrac}}{{HeroIcon|lina}}{{HeroIcon|np}}<br>{{HeroIcon|necro}}{{HeroIcon|qop}}{{HeroIcon|silencer}}{{HeroIcon|tinker}}{{HeroIcon|wr}}
+|}
+
+==={{Nuker}}===
+----
+<big>''"Can quickly kill enemy heroes using high damage spells with low cooldowns."''</big>
+
+'''Nukers''' are heroes with abilities that deliver high burst damage throughout the game. Their goal is to give the team an advantage by killing enemy heroes before they can react to team fights.
+
+{| class="wikitable"
+!colspan=8| ■■■ Nuker
+|-
+|{{HeroIcon|phoenix}}{{HeroIcon|timber}}{{HeroIcon|sf}}{{HeroIcon|invoker}}{{HeroIcon|lesh}}{{HeroIcon|lina}}{{HeroIcon|lion}}{{HeroIcon|oracle}}<br>{{HeroIcon|qop}}{{HeroIcon|skywrath}}{{HeroIcon|techies}}{{HeroIcon|tinker}}{{HeroIcon|zeus}}
+|-
+!colspan=8| ■■ Nuker
+|-
+|{{HeroIcon|earth spirit}}{{HeroIcon|sk}}{{HeroIcon|tiny}}{{HeroIcon|luna}}{{HeroIcon|meepo}}{{HeroIcon|nyx}}{{HeroIcon|cm}}{{HeroIcon|jakiro}}<br>{{HeroIcon|kotl}}{{HeroIcon|lich}}{{HeroIcon|necro}}{{HeroIcon|ogre}}{{HeroIcon|od}}{{HeroIcon|puck}}{{HeroIcon|pugna}}{{HeroIcon|shaman}}<br>{{HeroIcon|storm}}{{HeroIcon|visage}}{{HeroIcon|wd}}{{HeroIcon|pangolier}}{{HeroIcon|dark willow}}
+|-
+!colspan=8| ■ Nuker
+|-
+|{{HeroIcon|alch}}{{HeroIcon|beastmaster}}{{HeroIcon|brew}}{{HeroIcon|bb}}{{HeroIcon|centaur}}{{HeroIcon|clock}}{{HeroIcon|doom}}{{HeroIcon|dk}}<br>{{HeroIcon|es}}{{HeroIcon|et}}{{HeroIcon|io}}{{HeroIcon|kunkka}}{{HeroIcon|lc}}{{HeroIcon|magnus}}{{HeroIcon|ns}}{{HeroIcon|omni}}<br>{{HeroIcon|pudge}}{{HeroIcon|sven}}{{HeroIcon|tide}}{{HeroIcon|tusk}}{{HeroIcon|undying}}{{HeroIcon|am}}{{HeroIcon|arc}}{{HeroIcon|bs}}<br>{{HeroIcon|bh}}{{HeroIcon|brood}}{{HeroIcon|ember}}{{HeroIcon|gyro}}{{HeroIcon|mirana}}{{HeroIcon|morph}}{{HeroIcon|pl}}{{HeroIcon|razor}}<br>{{HeroIcon|slark}}{{HeroIcon|sniper}}{{HeroIcon|tb}}{{HeroIcon|venge}}{{HeroIcon|veno}}{{HeroIcon|aa}}{{HeroIcon|bane}}{{HeroIcon|dazzle}}<br>{{HeroIcon|dp}}{{HeroIcon|disruptor}}{{HeroIcon|np}}{{HeroIcon|rubick}}{{HeroIcon|sd}}{{HeroIcon|silencer}}{{HeroIcon|underlord}}{{HeroIcon|wr}}<br>{{HeroIcon|ww}}
+|}
+
+==={{Initiator}}===
+----
+<big>''"Good at starting a team fight."''</big>
+
+'''Initiators''' are heroes who can safely start a team fight. These heroes typically have a strong area of effect or special skill to affect the positioning of the enemy team. Usually there is an attempt to quickly eliminate the enemy carry to lure the enemy team, which then initiates a large scale battle. Their abilities often have long cooldowns which are best saved for these large confrontations.
+
+{| class="wikitable"
+!colspan=8| ■■■ Initiator
+|-
+|{{HeroIcon|axe}}{{HeroIcon|brew}}{{HeroIcon|cent}}{{HeroIcon|clock}}{{HeroIcon|shaker}}{{HeroIcon|mag}}{{HeroIcon|sk}}{{HeroIcon|tide}}<br>{{HeroIcon|void}}{{HeroIcon|bat}}{{HeroIcon|puck}}
+|-
+!colspan=8| ■■ Initiator
+|-
+|{{HeroIcon|beast}}{{HeroIcon|doom}}{{HeroIcon|et}}{{HeroIcon|ns}}{{HeroIcon|phx}}{{HeroIcon|pudge}}{{HeroIcon|slar}}{{HeroIcon|sb}}<br>{{HeroIcon|sven}}{{HeroIcon|tiny}}{{HeroIcon|tree}}{{HeroIcon|tusk}}{{HeroIcon|nyx}}{{HeroIcon|venge}}{{HeroIcon|enigma}}{{HeroIcon|lion}}<br>{{HeroIcon|silencer}}{{HeroIcon|warlock}}{{HeroIcon|pangolier}}
+|-
+!colspan=8| ■ Initiator
+|-
+|{{HeroIcon|alch}}{{HeroIcon|bb}}{{HeroIcon|ck}}{{HeroIcon|dk}}{{HeroIcon|earth}}{{HeroIcon|husk}}{{HeroIcon|kunkka}}{{HeroIcon|lc}}<br>{{HeroIcon|mk}}{{HeroIcon|bs}}{{HeroIcon|ember}}{{HeroIcon|meep}}{{HeroIcon|naga}}{{HeroIcon|veno}}{{HeroIcon|viper}}{{HeroIcon|ds}}<br>{{HeroIcon|dis}}{{HeroIcon|ogre}}{{HeroIcon|sd}}{{HeroIcon|shaman}}{{HeroIcon|storm}}{{HeroIcon|wk}}
+|}
+
+==={{Disabler}}===
+----
+<big>''"Has a guaranteed disable for one or more of their spells."''</big>
+
+'''Disablers''' are heroes with abilities more focused on reliable crowd control, either by single target or area of effect. They can act as initiators in small skirmishes, or as support by holding the enemy down for the carry to finish off.
+
+{| class="wikitable"
+!colspan=8| ■■■ Disabler
+|-
+|{{HeroIcon|bane}}{{HeroIcon|lion}}{{HeroIcon|puck}}{{HeroIcon|shaman}}
+|-
+!colspan=8| ■■ Disabler
+|-
+|{{HeroIcon|axe}}{{HeroIcon|beast}}{{HeroIcon|brew}}{{HeroIcon|ck}}{{HeroIcon|clock}}{{HeroIcon|doom}}{{HeroIcon|dk}}{{HeroIcon|shaker}}<br>{{HeroIcon|lc}}{{HeroIcon|mag}}{{HeroIcon|ns}}{{HeroIcon|pudge}}{{HeroIcon|sk}}{{HeroIcon|sb}}{{HeroIcon|sven}}{{HeroIcon|tide}}<br>{{HeroIcon|tusk}}{{HeroIcon|wk}}{{HeroIcon|void}}{{HeroIcon|naga}}{{HeroIcon|nyx}}{{HeroIcon|venge}}{{HeroIcon|bat}}{{HeroIcon|cm}}<br>{{HeroIcon|dis}}{{HeroIcon|enigma}}{{HeroIcon|invo}}{{HeroIcon|ogre}}{{HeroIcon|oracle}}{{HeroIcon|sd}}{{HeroIcon|silencer}}{{HeroIcon|ww}}
+|-
+!colspan=8| ■ Disabler
+|-
+|{{HeroIcon|alch}}{{HeroIcon|cent}}{{HeroIcon|earth}}{{HeroIcon|et}}{{HeroIcon|kunkka}}{{HeroIcon|lifestealer}}{{HeroIcon|mk}}{{HeroIcon|phx}}<br>{{HeroIcon|slar}}{{HeroIcon|tiny}}{{HeroIcon|tree}}{{HeroIcon|undying}}{{HeroIcon|bs}}{{HeroIcon|dr}}{{HeroIcon|ember}}{{HeroIcon|gyro}}<br>{{HeroIcon|dusa}}{{HeroIcon|meep}}{{HeroIcon|mirana}}{{HeroIcon|morph}}{{HeroIcon|riki}}{{HeroIcon|slark}}{{HeroIcon|troll}}{{HeroIcon|ursa}}<br>{{HeroIcon|veno}}{{HeroIcon|viper}}{{HeroIcon|aa}}{{HeroIcon|ds}}{{HeroIcon|dazzle}}{{HeroIcon|dp}}{{HeroIcon|ench}}{{HeroIcon|jak}}<br>{{HeroIcon|kotl}}{{HeroIcon|lesh}}{{HeroIcon|lina}}{{HeroIcon|necro}}{{HeroIcon|od}}{{HeroIcon|rubick}}{{HeroIcon|sky}}{{HeroIcon|storm}}<br>{{HeroIcon|techies}}{{HeroIcon|underlord}}{{HeroIcon|visage}}{{HeroIcon|warlock}}{{HeroIcon|wr}}{{HeroIcon|wd}}{{HeroIcon|pangolier}}{{HeroIcon|dark willow}}
+|}
+
+==={{Escape}}===
+----
+<big>''"Has the ability to quickly avoid death."''</big>
+
+'''Escape''' heroes are equipped with one or more escape mechanisms which allow them (and sometimes their allies) to avoid damage while retreating or repositioning themselves during a team fight. Escape mechanisms include [[movement speed]] buffs, [[invisibility]], [[teleportation]], and [[evasion]]. This is extremely useful for glass cannon heroes who have low hp and deal high damage, because it forces the enemy to change their play style to counter such high mobility.
+
+{| class="wikitable"
+!colspan=8| ■■■ Escape
+|-
+|{{HeroIcon|am}}{{HeroIcon|arc}}{{HeroIcon|brood}}{{HeroIcon|clinkz}}{{HeroIcon|ember}}{{HeroIcon|morph}}{{HeroIcon|slark}}{{HeroIcon|weaver}}<br>{{HeroIcon|puck}}{{HeroIcon|qop}}{{HeroIcon|storm}}
+|-
+!colspan=8| ■■ Escape
+|-
+|{{HeroIcon|earth spirit}}{{HeroIcon|io}}{{HeroIcon|mk}}{{HeroIcon|phoenix}}{{HeroIcon|sk}}{{HeroIcon|timber}}{{HeroIcon|bh}}{{HeroIcon|meepo}}<br>{{HeroIcon|mirana}}{{HeroIcon|pl}}{{HeroIcon|riki}}{{HeroIcon|underlord}}{{HeroIcon|pangolier}}{{HeroIcon|dark willow}}
+|-
+!colspan=8| ■ Escape
+|-
+|{{HeroIcon|centaur}}{{HeroIcon|ls}}{{HeroIcon|lycan}}{{HeroIcon|magnus}}{{HeroIcon|slardar}}{{HeroIcon|sb}}{{HeroIcon|treant}}{{HeroIcon|void}}<br>{{HeroIcon|jugg}}{{HeroIcon|naga}}{{HeroIcon|nyx}}{{HeroIcon|pa}}{{HeroIcon|spectre}}{{HeroIcon|ta}}{{HeroIcon|venge}}{{HeroIcon|bat}}<br>{{HeroIcon|ds}}{{HeroIcon|invoker}}{{HeroIcon|np}}{{HeroIcon|oracle}}{{HeroIcon|wr}}
+|}
+
+==={{Support}}===
+----
+<big>''"Can focus less on massing gold and items, and more on using their abilities to gain an advantage for the team."''</big>
+
+'''Supports''' are heroes who keep their allies alive and give them opportunities to earn more gold and experience. Supports will usually come with skills such as [[healing]] spells or disables, and generally have low damage output but a powerful (yet situational) nuke. Supports are typically not dependent on items. Most of their gold is spent on items for the benefit of the team, such as an [[Animal Courier]], [[Observer Ward]]s, or [[Sentry Ward]]s.
+
+Supports are paired with the team's carry at the start of a game. This is because the carry tends to be the weakest and most gold-hungry member of the team. A support should always try to forfeit kills to their team's carry, only securing the kill if none of their allies are able to do it. To protect and help their team control the lane in the early stages of the game is of high importance for a support. They are able to repel enemies and assist in lane survival. Common traits of supports are long range attacks and defensive abilities.
+
+{| class="wikitable"
+!colspan=8| ■■■ Support
+|-
+|{{HeroIcon|io}}{{HeroIcon|tree}}{{HeroIcon|vs}}{{HeroIcon|cm}}{{HeroIcon|dazzle}}{{HeroIcon|kotl}}{{HeroIcon|lich}}{{HeroIcon|oracle}}<br>{{HeroIcon|ww}}{{HeroIcon|wd}}
+|-
+!colspan=8| ■■ Support
+|-
+|{{HeroIcon|abaddon}}{{HeroIcon|omni}}{{HeroIcon|veno}}{{HeroIcon|aa}}{{HeroIcon|bane}}{{HeroIcon|chen}}{{HeroIcon|dis}}{{HeroIcon|ench}}<br>{{HeroIcon|lion}}{{HeroIcon|ogre}}{{HeroIcon|rubick}}{{HeroIcon|sd}}{{HeroIcon|shaman}}{{HeroIcon|sky}}{{HeroIcon|dark willow}}
+|-
+!colspan=8| ■ Support
+|-
+|{{HeroIcon|alch}}{{HeroIcon|shaker}}{{HeroIcon|kunkka}}{{HeroIcon|phx}}{{HeroIcon|undying}}{{HeroIcon|wk}}{{HeroIcon|mirana}}{{HeroIcon|naga}}<br>{{HeroIcon|jak}}{{HeroIcon|lesh}}{{HeroIcon|lina}}{{HeroIcon|silencer}}{{HeroIcon|sk}}{{HeroIcon|underlord}}{{HeroIcon|visage}}{{HeroIcon|warlock}}<br>{{HeroIcon|wr}}
+|}
+
+==={{Pusher}}===
+----
+<big>''"Can quickly siege and destroy towers and barracks at all points in the game."''</big>
+
+'''Pushers''' focus on bringing down [[towers]] quickly, thereby acquiring map control. If they succeed, they often shut down the enemy carry by forcing them away from farming. They have skills that fortify allied creep waves, [[summon]] units, or deal massive amounts of damage to enemy towers.
+
+{| class="wikitable"
+!colspan=8| ■■■ Pusher
+|-
+|{{HeroIcon|dk}}{{HeroIcon|lycan}}{{HeroIcon|brood}}{{HeroIcon|ld}}{{HeroIcon|dp}}{{HeroIcon|lesh}}{{HeroIcon|np}}{{HeroIcon|shaman}}
+|-
+!colspan=8| ■■ Pusher
+|-
+|{{HeroIcon|ck}}{{HeroIcon|tiny}}{{HeroIcon|naga}}{{HeroIcon|tb}}{{HeroIcon|chen}}{{HeroIcon|ench}}{{HeroIcon|enigma}}{{HeroIcon|jak}}<br>{{HeroIcon|pugna}}{{HeroIcon|tinker}}
+|-
+!colspan=8| ■ Pusher
+|-
+|{{HeroIcon|clinkz}}{{HeroIcon|dr}}{{HeroIcon|jugg}}{{HeroIcon|luna}}{{HeroIcon|meep}}{{HeroIcon|pl}}{{HeroIcon|razor}}{{HeroIcon|troll}}<br>{{HeroIcon|veno}}{{HeroIcon|invo}}{{HeroIcon|visage}}
+|}
+
+==={{Jungler}}===
+----
+<big>''"Can farm effectively from neutral creeps inside the jungle early in the game."''</big>
+
+'''Junglers''' can clear [[neutral camps]] at the start of the game. This allows for them to farm without interfering with the other lanes, which can allow allies to benefit from soloing their lane more. Junglers have skills that allow them to [[convert]] neutral creeps, [[summon]] units, or sustain themselves efficiently.
+
+{| class="wikitable"
+!colspan=8| ■■■ Jungler
+|-
+|{{HeroIcon|chen}}{{HeroIcon|ench}}{{HeroIcon|enigma}}{{HeroIcon|np}}
+|-
+!colspan=8| ■■ Jungler
+|-
+|{{HeroIcon|axe}}{{HeroIcon|bat}}
+|-
+!colspan=8| ■ Jungler
+|-
+|{{HeroIcon|lifestealer}}{{HeroIcon|lycan}}{{HeroIcon|sk}}{{HeroIcon|bs}}{{HeroIcon|ld}}{{HeroIcon|ursa}}{{HeroIcon|cm}}{{HeroIcon|ds}}<br>{{HeroIcon|kotl}}
+|}
+

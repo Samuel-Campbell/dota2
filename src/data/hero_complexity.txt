@@ -1,0 +1,23 @@
+==Complexity==
+Heroes can be sorted by overall complexity, taking all of their variables into account.
+
+Complexity levels: <br> &nbsp; ■■■ Advanced <br> &nbsp; ■■ Moderate <br> &nbsp; ■ Straightforward
+
+Heroes with advanced complexity take a high degree of skill and game knowledge to play well. <br>
+Heroes with moderate complexity are fairly flexible in terms of difficulty and method of play style. <br>
+Heroes with straightforward complexity more forgiving to play while still offering unique play styles.
+
+{| class="wikitable"
+!colspan=8| ■■■ Complexity
+|-
+|{{HeroIcon|brewmaster}}{{HeroIcon|earth spirit}}{{HeroIcon|io}}{{HeroIcon|aw}}{{HeroIcon|ld}}{{HeroIcon|meepo}}{{HeroIcon|morph}}{{HeroIcon|chen}}<br>{{HeroIcon|invoker}}{{HeroIcon|oracle}}{{HeroIcon|rubick}}{{HeroIcon|storm}}{{HeroIcon|visage}}
+|-
+!colspan=8| ■■ Complexity
+|-
+|{{HeroIcon|beastmaster}}{{HeroIcon|clock}}{{HeroIcon|doom}}{{HeroIcon|earthshaker}}{{HeroIcon|et}}{{HeroIcon|kunkka}}{{HeroIcon|lifestealer}}{{HeroIcon|lycan}}<br>{{HeroIcon|magnus}}{{HeroIcon|mk}}{{HeroIcon|phx}}{{HeroIcon|pudge}}{{HeroIcon|sk}}{{HeroIcon|timber}}{{HeroIcon|tree}}{{HeroIcon|tusk}}<br>{{HeroIcon|underlord}}{{HeroIcon|brood}}{{HeroIcon|clinkz}}{{HeroIcon|ember}}{{HeroIcon|void}}{{HeroIcon|mirana}}{{HeroIcon|naga}}{{HeroIcon|nyx}}<br>{{HeroIcon|pl}}{{HeroIcon|sf}}{{HeroIcon|spectre}}{{HeroIcon|ta}}{{HeroIcon|tb}}{{HeroIcon|troll}}{{HeroIcon|weaver}}{{HeroIcon|aa}}<br>{{HeroIcon|bane}}{{HeroIcon|bat}}{{HeroIcon|ds}}{{HeroIcon|disruptor}}{{HeroIcon|enchant}}{{HeroIcon|enigma}}{{HeroIcon|kotl}}{{HeroIcon|np}}<br>{{HeroIcon|od}}{{HeroIcon|puck}}{{HeroIcon|pugna}}{{HeroIcon|qop}}{{HeroIcon|sd}}{{HeroIcon|silencer}}{{HeroIcon|techies}}{{HeroIcon|tinker}}<br>{{HeroIcon|wr}}{{HeroIcon|ww}}{{HeroIcon|pangolier}}{{HeroIcon|dark willow}}
+|-
+!colspan=8| ■ Complexity
+|-
+|{{HeroIcon|abaddon}}{{HeroIcon|alch}}{{HeroIcon|axe}}{{HeroIcon|bb}}{{HeroIcon|centaur}}{{HeroIcon|ck}}{{HeroIcon|dk}}{{HeroIcon|huskar}}<br>{{HeroIcon|lc}}{{HeroIcon|ns}}{{HeroIcon|omni}}{{HeroIcon|slardar}}{{HeroIcon|sb}}{{HeroIcon|sven}}{{HeroIcon|tide}}{{HeroIcon|tiny}}<br>{{HeroIcon|undying}}{{HeroIcon|wk}}{{HeroIcon|am}}{{HeroIcon|bs}}{{HeroIcon|bh}}{{HeroIcon|drow}}{{HeroIcon|gyro}}{{HeroIcon|jugg}}<br>{{HeroIcon|luna}}{{HeroIcon|medusa}}{{HeroIcon|pa}}{{HeroIcon|razor}}{{HeroIcon|riki}}{{HeroIcon|slark}}{{HeroIcon|sniper}}{{HeroIcon|ursa}}<br>{{HeroIcon|venge}}{{HeroIcon|veno}}{{HeroIcon|viper}}{{HeroIcon|cm}}{{HeroIcon|dazzle}}{{HeroIcon|dp}}{{HeroIcon|jak}}{{HeroIcon|lesh}}<br>{{HeroIcon|lich}}{{HeroIcon|lina}}{{HeroIcon|lion}}{{HeroIcon|necro}}{{HeroIcon|ogre}}{{HeroIcon|shaman}}{{HeroIcon|sky}}{{HeroIcon|warlock}}<br>{{HeroIcon|wd}}{{HeroIcon|zeus}}
+|}
+
