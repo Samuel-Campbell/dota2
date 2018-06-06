@@ -11,7 +11,7 @@ beast = Beastmaster
 beastmaster
 BS = Bloodseeker
 BH = Bounty Hunter
-Brew = Brewmaster 
+Brew = Brewmaster
 BB = Bristleback
 Brood = Broodmother
 Centaur = Centaur Warrunner
@@ -46,7 +46,7 @@ Gyro = Gyrocopter
 Huskar
 Invoker
 invo = Invoker
-Io = Wisp
+Io = io
 Jak = Jakiro
 Jakiro
 Jugg = Juggernaut
@@ -63,7 +63,7 @@ Lion
 LD = Lone Druid
 Syllabear = Lone Druid
 Luna
-Lycan = Lycanthrope
+Lycan = Lycan
 Mag = Magnus
 magnus
 Medusa
