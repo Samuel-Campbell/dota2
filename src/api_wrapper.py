@@ -15,7 +15,6 @@ latest_match_id = 3933473953
 # desired size of data set
 data_size = 1000
 
-"""
 try:
     # init key from environment variables
     api = dota2api.Initialise()
@@ -45,7 +44,6 @@ while data_size > 0:
     except APIError:
         pass
 
-"""
 player_stats = {}
 
 with open('data/match.json') as fp:
@@ -71,7 +69,6 @@ for key in match_dict:
         except KeyError:
             pass
 
-"""        
 # save match data
 print("\n[+] Saving match data")
 with open('data/match.json', 'w') as fp:
@@ -86,7 +83,6 @@ with open('data/heroes.json', 'w') as fp:
 print("[+] Saving items data")
 with open('data/items.json', 'w') as fp:
     json.dump(items_dict, fp)
-"""
 
 # save player stats
 print("[+] Saving player stats")
