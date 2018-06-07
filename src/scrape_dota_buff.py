@@ -43,7 +43,7 @@ def log_error(e):
     print(e)
 
 
-def scrape(player_id):
+def scrape_player(player_id):
     try:
         url = "https://www.dotabuff.com/players/" + str(player_id) + "/heroes"
         raw_html = simple_get(url)
@@ -70,25 +70,29 @@ def scrape(player_id):
         return None
 
 
-if __name__ == '__main__':
-    import json
-    from sys import stdout
-    import time
-    with open('data/player_stats.json') as fp:
-        d = json.load(fp)
+def scrape_hero_monthly_stats():
+    url = "https://www.dotabuff.com/heroes/played"
+    raw_html = simple_get(url)
+    html = BeautifulSoup(raw_html, 'html.parser')
+    t = html.select("tbody")[0]
 
-    i = 0
-    for key in d:
-        time.sleep(1)
-        if d[key] is None:
-            d[key] = scrape(key)
+    hero_information = {}
 
-        percent = (i / (len(d))) * 100
-        stdout.write("\r[+] Data Scraped (percent): %f " % percent)
-        stdout.flush()
+    for hero_tr in t.select("tr"):
+        hero_td = hero_tr.select("td")
+        hero_name = hero_td[0]['data-value']
+        games_played = hero_td[2]['data-value']
+        pick_rate = hero_td[3]['data-value']
+        win_ratio = hero_td[4]['data-value']
+        kda = hero_td[5]['data-value']
 
-        i += 1
+        hero_information[hero_name] = {
+            'games_played': games_played,
+            'pick_rate': pick_rate,
+            'win_ratio': win_ratio,
+            'kda': kda
+        }
 
-        with open('data/player_stats.json', 'w') as fp:
-            json.dump(d, fp)
+    return hero_information
+
 

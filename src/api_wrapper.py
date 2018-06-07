@@ -3,7 +3,7 @@ from sys import stdout
 import dota2api
 from dota2api.src.exceptions import APIAuthenticationError, APIError
 import time
-from scrape_dota_buff import scrape
+from scrape_dota_buff import scrape_player, scrape_hero_monthly_stats
 
 
 # API key can be found here https://steamcommunity.com/dev/apikey
@@ -26,6 +26,7 @@ except APIAuthenticationError:
 match_dict = {}
 heroes_dict = api.get_heroes()
 items_dict = api.get_game_items()
+heroes_stats_dict = scrape_hero_monthly_stats()
 
 original_data_size = data_size * 1.0
 
@@ -57,7 +58,7 @@ for key in match_dict:
         time.sleep(1)
         try:
             account_id = player['account_id']
-            player_info = scrape(account_id)
+            player_info = scrape_player(account_id)
             player_stats[account_id] = player_info
 
             percent = (i / (data_size * 10)) * 100
@@ -88,3 +89,8 @@ with open('data/items.json', 'w') as fp:
 print("[+] Saving player stats")
 with open('data/player_stats.json', 'w') as fp:
     json.dump(player_stats, fp)
+
+# save hero stats
+print("[+] Saving hero monthly stats")
+with open('data/hero_monthly_stats.json', 'w') as fp:
+    json.dump(heroes_stats_dict, fp)
