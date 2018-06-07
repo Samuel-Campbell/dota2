@@ -1,115 +1,115 @@
-{"id":1,"localized_name":"anti-mage","score":4096}
-{"id":2,"localized_name":"axe","score":4194304}
-{"id":3,"localized_name":"bane","score":65536}
-{"id":4,"localized_name":"bloodseeker","score":8388608}
-{"id":5,"localized_name":"crystal maiden","score":8388608}
-{"id":6,"localized_name":"drow ranger","score":1048576}
-{"id":7,"localized_name":"earthshaker","score":131072}
-{"id":8,"localized_name":"juggernaut","score":1048576}
-{"id":9,"localized_name":"mirana","score":131072}
-{"id":11,"localized_name":"shadow fiend","score":8}
-{"id":10,"localized_name":"morphling","score":4096}
-{"id":12,"localized_name":"phantom lancer","score":1048576}
-{"id":13,"localized_name":"puck","score":4096}
-{"id":14,"localized_name":"pudge","score":1024}
-{"id":15,"localized_name":"razor","score":1048576}
-{"id":16,"localized_name":"sand king","score":8388608}
-{"id":17,"localized_name":"storm spirit","score":4096}
-{"id":18,"localized_name":"sven","score":1024}
-{"id":19,"localized_name":"tiny","score":524288}
-{"id":20,"localized_name":"vengeful spirit","score":32768}
-{"id":21,"localized_name":"windranger","score":131072}
-{"id":22,"localized_name":"zeus","score":8}
-{"id":23,"localized_name":"kunkka","score":131072}
-{"id":25,"localized_name":"lina","score":131072}
-{"id":31,"localized_name":"lich","score":32768}
-{"id":26,"localized_name":"lion","score":65536}
-{"id":27,"localized_name":"shadow shaman","score":262144}
-{"id":28,"localized_name":"slardar","score":16384}
-{"id":29,"localized_name":"tidehunter","score":1024}
-{"id":30,"localized_name":"witch doctor","score":32768}
-{"id":32,"localized_name":"riki","score":8192}
-{"id":33,"localized_name":"enigma","score":2097152}
-{"id":34,"localized_name":"tinker","score":524288}
-{"id":35,"localized_name":"sniper","score":32}
-{"id":36,"localized_name":"necrophos","score":2048}
-{"id":37,"localized_name":"warlock","score":131072}
-{"id":38,"localized_name":"beastmaster","score":1024}
-{"id":39,"localized_name":"queen of pain","score":4096}
-{"id":40,"localized_name":"venomancer","score":1048576}
-{"id":41,"localized_name":"faceless void","score":16384}
-{"id":42,"localized_name":"wraith king","score":131072}
-{"id":43,"localized_name":"death prophet","score":262144}
-{"id":44,"localized_name":"phantom assassin","score":16384}
-{"id":45,"localized_name":"pugna","score":524288}
-{"id":46,"localized_name":"templar assassin","score":16384}
-{"id":47,"localized_name":"viper","score":2048}
-{"id":48,"localized_name":"luna","score":1048576}
-{"id":49,"localized_name":"dragon knight","score":262144}
-{"id":50,"localized_name":"dazzle","score":32768}
-{"id":51,"localized_name":"clockwerk","score":1024}
-{"id":52,"localized_name":"leshrac","score":262144}
-{"id":53,"localized_name":"nature's prophet","score":2097152}
-{"id":54,"localized_name":"lifestealer","score":8388608}
-{"id":55,"localized_name":"dark seer","score":8388608}
-{"id":56,"localized_name":"clinkz","score":1048576}
-{"id":57,"localized_name":"omniknight","score":65536}
-{"id":58,"localized_name":"enchantress","score":2097152}
-{"id":59,"localized_name":"huskar","score":256}
-{"id":60,"localized_name":"night stalker","score":1024}
-{"id":61,"localized_name":"broodmother","score":262144}
-{"id":62,"localized_name":"bounty hunter","score":8192}
-{"id":63,"localized_name":"weaver","score":4096}
-{"id":64,"localized_name":"jakiro","score":524288}
-{"id":65,"localized_name":"batrider","score":4194304}
-{"id":66,"localized_name":"chen","score":2097152}
-{"id":67,"localized_name":"spectre","score":16384}
-{"id":69,"localized_name":"doom","score":1024}
-{"id":68,"localized_name":"ancient apparition","score":65536}
-{"id":70,"localized_name":"ursa","score":8388608}
-{"id":71,"localized_name":"spirit breaker","score":16384}
-{"id":72,"localized_name":"gyrocopter","score":2048}
-{"id":73,"localized_name":"alchemist","score":131072}
-{"id":74,"localized_name":"invoker","score":1048576}
-{"id":75,"localized_name":"silencer","score":131072}
-{"id":76,"localized_name":"outworld devourer","score":2048}
-{"id":77,"localized_name":"lycan","score":8388608}
-{"id":78,"localized_name":"brewmaster","score":1024}
-{"id":79,"localized_name":"shadow demon","score":65536}
-{"id":80,"localized_name":"lone druid","score":8388608}
-{"id":81,"localized_name":"chaos knight","score":524288}
-{"id":82,"localized_name":"meepo","score":1048576}
-{"id":83,"localized_name":"treant protector","score":16384}
-{"id":84,"localized_name":"ogre magi","score":65536}
-{"id":85,"localized_name":"undying","score":131072}
-{"id":86,"localized_name":"rubick","score":65536}
-{"id":87,"localized_name":"disruptor","score":65536}
-{"id":88,"localized_name":"nyx assassin","score":16384}
-{"id":89,"localized_name":"naga siren","score":524288}
-{"id":90,"localized_name":"keeper of the light","score":8388608}
-{"id":91,"localized_name":"io","score":32768}
-{"id":92,"localized_name":"visage","score":1048576}
-{"id":93,"localized_name":"slark","score":4096}
-{"id":94,"localized_name":"medusa","score":2048}
-{"id":95,"localized_name":"troll warlord","score":1048576}
-{"id":96,"localized_name":"centaur warrunner","score":16384}
-{"id":97,"localized_name":"magnus","score":16384}
-{"id":98,"localized_name":"timbersaw","score":8192}
-{"id":99,"localized_name":"bristleback","score":256}
-{"id":100,"localized_name":"tusk","score":1024}
-{"id":101,"localized_name":"skywrath mage","score":65536}
-{"id":102,"localized_name":"abaddon","score":65536}
-{"id":103,"localized_name":"elder titan","score":2048}
-{"id":104,"localized_name":"legion commander","score":1024}
-{"id":106,"localized_name":"ember spirit","score":4096}
-{"id":107,"localized_name":"earth spirit","score":8192}
-{"id":109,"localized_name":"terrorblade","score":524288}
-{"id":110,"localized_name":"phoenix","score":131072}
-{"id":111,"localized_name":"oracle","score":32768}
-{"id":105,"localized_name":"techies","score":2048}
-{"id":112,"localized_name":"winter wyvern","score":32768}
-{"id":113,"localized_name":"arc warden","score":4096}
-{"id":108,"localized_name":"underlord","score":131072}
-{"id":114,"localized_name":"monkey king","score":8192}
-{"id":120,"localized_name":"pangolier","score":8192}
-{"id":119,"localized_name":"dark willow","score":65536}
+{"localized_name":"anti-mage","score":4096}
+{"localized_name":"axe","score":4194304}
+{"localized_name":"bane","score":65536}
+{"localized_name":"bloodseeker","score":8388608}
+{"localized_name":"crystal maiden","score":8388608}
+{"localized_name":"drow ranger","score":1048576}
+{"localized_name":"earthshaker","score":131072}
+{"localized_name":"juggernaut","score":1048576}
+{"localized_name":"mirana","score":131072}
+{"localized_name":"shadow fiend","score":8}
+{"localized_name":"morphling","score":4096}
+{"localized_name":"phantom lancer","score":1048576}
+{"localized_name":"puck","score":4096}
+{"localized_name":"pudge","score":1024}
+{"localized_name":"razor","score":1048576}
+{"localized_name":"sand king","score":8388608}
+{"localized_name":"storm spirit","score":4096}
+{"localized_name":"sven","score":1024}
+{"localized_name":"tiny","score":524288}
+{"localized_name":"vengeful spirit","score":32768}
+{"localized_name":"windranger","score":131072}
+{"localized_name":"zeus","score":8}
+{"localized_name":"kunkka","score":131072}
+{"localized_name":"lina","score":131072}
+{"localized_name":"lich","score":32768}
+{"localized_name":"lion","score":65536}
+{"localized_name":"shadow shaman","score":262144}
+{"localized_name":"slardar","score":16384}
+{"localized_name":"tidehunter","score":1024}
+{"localized_name":"witch doctor","score":32768}
+{"localized_name":"riki","score":8192}
+{"localized_name":"enigma","score":2097152}
+{"localized_name":"tinker","score":524288}
+{"localized_name":"sniper","score":32}
+{"localized_name":"necrophos","score":2048}
+{"localized_name":"warlock","score":131072}
+{"localized_name":"beastmaster","score":1024}
+{"localized_name":"queen of pain","score":4096}
+{"localized_name":"venomancer","score":1048576}
+{"localized_name":"faceless void","score":16384}
+{"localized_name":"wraith king","score":131072}
+{"localized_name":"death prophet","score":262144}
+{"localized_name":"phantom assassin","score":16384}
+{"localized_name":"pugna","score":524288}
+{"localized_name":"templar assassin","score":16384}
+{"localized_name":"viper","score":2048}
+{"localized_name":"luna","score":1048576}
+{"localized_name":"dragon knight","score":262144}
+{"localized_name":"dazzle","score":32768}
+{"localized_name":"clockwerk","score":1024}
+{"localized_name":"leshrac","score":262144}
+{"localized_name":"nature's prophet","score":2097152}
+{"localized_name":"lifestealer","score":8388608}
+{"localized_name":"dark seer","score":8388608}
+{"localized_name":"clinkz","score":1048576}
+{"localized_name":"omniknight","score":65536}
+{"localized_name":"enchantress","score":2097152}
+{"localized_name":"huskar","score":256}
+{"localized_name":"night stalker","score":1024}
+{"localized_name":"broodmother","score":262144}
+{"localized_name":"bounty hunter","score":8192}
+{"localized_name":"weaver","score":4096}
+{"localized_name":"jakiro","score":524288}
+{"localized_name":"batrider","score":4194304}
+{"localized_name":"chen","score":2097152}
+{"localized_name":"spectre","score":16384}
+{"localized_name":"doom","score":1024}
+{"localized_name":"ancient apparition","score":65536}
+{"localized_name":"ursa","score":8388608}
+{"localized_name":"spirit breaker","score":16384}
+{"localized_name":"gyrocopter","score":2048}
+{"localized_name":"alchemist","score":131072}
+{"localized_name":"invoker","score":1048576}
+{"localized_name":"silencer","score":131072}
+{"localized_name":"outworld devourer","score":2048}
+{"localized_name":"lycan","score":8388608}
+{"localized_name":"brewmaster","score":1024}
+{"localized_name":"shadow demon","score":65536}
+{"localized_name":"lone druid","score":8388608}
+{"localized_name":"chaos knight","score":524288}
+{"localized_name":"meepo","score":1048576}
+{"localized_name":"treant protector","score":16384}
+{"localized_name":"ogre magi","score":65536}
+{"localized_name":"undying","score":131072}
+{"localized_name":"rubick","score":65536}
+{"localized_name":"disruptor","score":65536}
+{"localized_name":"nyx assassin","score":16384}
+{"localized_name":"naga siren","score":524288}
+{"localized_name":"keeper of the light","score":8388608}
+{"localized_name":"io","score":32768}
+{"localized_name":"visage","score":1048576}
+{"localized_name":"slark","score":4096}
+{"localized_name":"medusa","score":2048}
+{"localized_name":"troll warlord","score":1048576}
+{"localized_name":"centaur warrunner","score":16384}
+{"localized_name":"magnus","score":16384}
+{"localized_name":"timbersaw","score":8192}
+{"localized_name":"bristleback","score":256}
+{"localized_name":"tusk","score":1024}
+{"localized_name":"skywrath mage","score":65536}
+{"localized_name":"abaddon","score":65536}
+{"localized_name":"elder titan","score":2048}
+{"localized_name":"legion commander","score":1024}
+{"localized_name":"ember spirit","score":4096}
+{"localized_name":"earth spirit","score":8192}
+{"localized_name":"terrorblade","score":524288}
+{"localized_name":"phoenix","score":131072}
+{"localized_name":"oracle","score":32768}
+{"localized_name":"techies","score":2048}
+{"localized_name":"winter wyvern","score":32768}
+{"localized_name":"arc warden","score":4096}
+{"localized_name":"underlord","score":131072}
+{"localized_name":"monkey king","score":8192}
+{"localized_name":"pangolier","score":8192}
+{"localized_name":"dark willow","score":65536}

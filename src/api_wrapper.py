@@ -54,7 +54,7 @@ print()
 for key in match_dict:
     player_list = match_dict[key]['players']
     for player in player_list:
-        time.sleep(0.01)
+        time.sleep(1)
         try:
             account_id = player['account_id']
             player_info = scrape(account_id)

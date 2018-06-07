@@ -16,6 +16,7 @@ def simple_get(url):
         if is_good_response(resp):
             return resp.content
         else:
+            print("Bad response")
             return None
 
     except RequestException as e:
@@ -64,7 +65,30 @@ def scrape(player_id):
             }
 
         return return_dict
-    except TypeError:
+    except:
+        print("Error")
         return None
 
+
+if __name__ == '__main__':
+    import json
+    from sys import stdout
+    import time
+    with open('data/player_stats.json') as fp:
+        d = json.load(fp)
+
+    i = 0
+    for key in d:
+        time.sleep(1)
+        if d[key] is None:
+            d[key] = scrape(key)
+
+        percent = (i / (len(d))) * 100
+        stdout.write("\r[+] Data Scraped (percent): %f " % percent)
+        stdout.flush()
+
+        i += 1
+
+        with open('data/player_stats.json', 'w') as fp:
+            json.dump(d, fp)
 
