@@ -1,0 +1,139 @@
+Abaddon
+Alch = Alchemist
+AA = Ancient Apparition
+AM = Anti-Mage
+Arc = Arc Warden
+Axe
+Bane
+Bat = Batrider
+BM = Beastmaster
+beast = Beastmaster
+beastmaster
+BS = Bloodseeker
+BH = Bounty Hunter
+Brew = Brewmaster
+BB = Bristleback
+Brood = Broodmother
+Centaur = Centaur Warrunner
+cent = Centaur Warrunner
+CK = Chaos Knight
+Chen
+Clinkz
+Clock = Clockwerk
+CM = Crystal Maiden
+DS = Dark Seer
+Dazzle
+Dark Willow
+DP = Death Prophet
+Disruptor
+dis = Disruptor
+Doom
+DK = Dragon Knight
+Drow = Drow Ranger
+dr = Drow Ranger
+ES = Earthshaker
+shaker = Earthshaker
+Earth = Earth Spirit
+Earth spirit
+ET = Elder Titan
+Ember = Ember Spirit
+Enchantress
+ench = Enchantress
+Enigma
+Void = Faceless Void
+Gandalf = Keeper of the Light 
+Gyro = Gyrocopter
+Huskar
+Invoker
+invo = Invoker
+Io = io
+Jak = Jakiro
+Jakiro
+Jugg = Juggernaut
+KotL = Keeper of the Light
+Kunkka
+Husk = Huskar
+LC = Legion Commander
+Leshrac
+Lesh = Leshrac
+Lich
+ls = Lifestealer
+Lina
+Lion
+LD = Lone Druid
+Syllabear = Lone Druid
+Luna
+Lycan = Lycan
+Mag = Magnus
+magnus
+Medusa
+dusa = Medusa
+Meepo
+meep = Meepo
+Mirana
+Morph = Morphling
+Mk = Monkey King
+Naga = Naga Siren
+NP = Nature's Prophet
+Necro = Necrophos
+NS = Night Stalker
+Nyx = Nyx Assassin
+Ogre = Ogre Magi
+Omni = Omniknight
+OD = Outworld Devourer
+Oracle
+PA = Phantom Assassin
+Pangolier
+PL = Phantom Lancer
+Phoenix
+Puck
+Pudge
+Pugna
+Phx = Phoenix
+QoP = Queen of Pain
+Razor
+Riki
+Rubick
+SK = Sand King
+SD = Shadow Demon
+SF = Shadow Fiend
+SS = Shadow Shaman
+shaman = Shadow Shaman
+storm = Storm Spirit
+Silencer
+SM = Skywrath Mage
+Skywrath = Skywrath Mage
+Sky = Skywrath Mage
+Slardar
+Slar = Slardar
+Slark
+Sniper
+Spectre
+SB = Spirit Breaker
+Sven
+TA = Templar Assassin
+TB = Terrorblade
+Techies
+Tree = Treant
+Tide = Tidehunter
+Timber = Timbersaw
+Tinker
+Tiny
+Treant = Treant Protector
+Troll = Troll Warlord
+Tusk
+Underlord
+Undying
+Ursa
+Venge = Vengeful Spirit
+Vs = Vengeful Spirit
+Veno = Venomancer
+Viper
+Visage
+Warlock
+Weaver
+WR = Windranger
+WD = Witch Doctor
+WK = Wraith King
+WW = Winter Wyvern
+Zeus

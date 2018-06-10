@@ -1,104 +1,115 @@
-{"hero_id":1,"hero_name":"anti-mage","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
-{"hero_id":3,"hero_name":"bane","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
+{"hero_id":1,"hero_name":"anti-mage","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":19,"support":0}
+{"hero_id":2,"hero_name":"axe","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":1,"nuker":0,"pusher":0,"score":140,"support":0}
+{"hero_id":3,"hero_name":"bane","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":42,"support":1}
 {"hero_id":4,"hero_name":"bloodseeker","carry":1,"disabler":1,"escape":0,"initiator":1,"jungler":1,"nuker":1,"pusher":0,"score":143,"support":0}
-{"hero_id":5,"hero_name":"crystal maiden","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":1,"nuker":0,"pusher":0,"score":128,"support":0}
-{"hero_id":6,"hero_name":"drow ranger","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":1,"score":72,"support":0}
-{"hero_id":7,"hero_name":"earthshaker","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":34,"support":1}
-{"hero_id":8,"hero_name":"juggernaut","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":1,"score":80,"support":0}
-{"hero_id":9,"hero_name":"mirana","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":43,"support":1}
-{"hero_id":10,"hero_name":"morphling","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":10,"support":0}
-{"hero_id":12,"hero_name":"phantom lancer","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":1,"score":66,"support":0}
-{"hero_id":14,"hero_name":"pudge","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
-{"hero_id":15,"hero_name":"razor","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":1,"score":66,"support":0}
-{"hero_id":16,"hero_name":"sand king","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":1,"nuker":0,"pusher":0,"score":160,"support":1}
-{"hero_id":17,"hero_name":"storm spirit","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":12,"support":0}
-{"hero_id":18,"hero_name":"sven","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
-{"hero_id":19,"hero_name":"tiny","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":8,"support":0}
-{"hero_id":20,"hero_name":"vengeful spirit","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":18,"support":0}
+{"hero_id":5,"hero_name":"crystal maiden","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":1,"nuker":1,"pusher":0,"score":170,"support":1}
+{"hero_id":6,"hero_name":"drow ranger","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":1,"score":73,"support":0}
+{"hero_id":7,"hero_name":"earthshaker","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":46,"support":1}
+{"hero_id":8,"hero_name":"juggernaut","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":1,"score":81,"support":0}
+{"hero_id":9,"hero_name":"mirana","carry":1,"disabler":1,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":59,"support":1}
+{"hero_id":11,"hero_name":"shadow fiend","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":3,"support":0}
+{"hero_id":10,"hero_name":"morphling","carry":1,"disabler":1,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":27,"support":0}
+{"hero_id":12,"hero_name":"phantom lancer","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":1,"score":83,"support":0}
+{"hero_id":13,"hero_name":"puck","carry":0,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":30,"support":0}
+{"hero_id":14,"hero_name":"pudge","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":14,"support":0}
+{"hero_id":15,"hero_name":"razor","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":1,"score":67,"support":0}
+{"hero_id":16,"hero_name":"sand king","carry":0,"disabler":1,"escape":1,"initiator":1,"jungler":1,"nuker":1,"pusher":0,"score":190,"support":1}
+{"hero_id":17,"hero_name":"storm spirit","carry":1,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":31,"support":0}
+{"hero_id":18,"hero_name":"sven","carry":1,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":15,"support":0}
+{"hero_id":19,"hero_name":"tiny","carry":1,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":1,"score":79,"support":0}
+{"hero_id":20,"hero_name":"vengeful spirit","carry":0,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":62,"support":1}
 {"hero_id":21,"hero_name":"windranger","carry":1,"disabler":1,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":59,"support":1}
+{"hero_id":22,"hero_name":"zeus","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
 {"hero_id":23,"hero_name":"kunkka","carry":1,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":47,"support":1}
-{"hero_id":25,"hero_name":"lina","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":41,"support":1}
-{"hero_id":27,"hero_name":"shadow shaman","carry":0,"disabler":0,"escape":0,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":4,"support":0}
-{"hero_id":28,"hero_name":"slardar","carry":0,"disabler":1,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":24,"support":0}
-{"hero_id":29,"hero_name":"tidehunter","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
-{"hero_id":30,"hero_name":"witch doctor","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":8,"support":0}
-{"hero_id":32,"hero_name":"riki","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":8,"support":0}
-{"hero_id":34,"hero_name":"tinker","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":1,"support":0}
-{"hero_id":35,"hero_name":"sniper","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
-{"hero_id":36,"hero_name":"necrophos","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":9,"support":0}
-{"hero_id":37,"hero_name":"warlock","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":40,"support":1}
-{"hero_id":38,"hero_name":"beastmaster","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
-{"hero_id":39,"hero_name":"queen of pain","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":1,"support":0}
-{"hero_id":40,"hero_name":"venomancer","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":1,"score":78,"support":0}
-{"hero_id":41,"hero_name":"faceless void","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":16,"support":0}
-{"hero_id":42,"hero_name":"wraith king","carry":0,"disabler":0,"escape":0,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":36,"support":1}
-{"hero_id":43,"hero_name":"death prophet","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":11,"support":0}
-{"hero_id":44,"hero_name":"phantom assassin","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":16,"support":0}
-{"hero_id":46,"hero_name":"templar assassin","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":16,"support":0}
+{"hero_id":25,"hero_name":"lina","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":43,"support":1}
+{"hero_id":31,"hero_name":"lich","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":34,"support":1}
+{"hero_id":26,"hero_name":"lion","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":46,"support":1}
+{"hero_id":27,"hero_name":"shadow shaman","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":1,"score":110,"support":1}
+{"hero_id":28,"hero_name":"slardar","carry":1,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":29,"support":0}
+{"hero_id":29,"hero_name":"tidehunter","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":14,"support":0}
+{"hero_id":30,"hero_name":"witch doctor","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":42,"support":1}
+{"hero_id":32,"hero_name":"riki","carry":1,"disabler":1,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":25,"support":0}
+{"hero_id":33,"hero_name":"enigma","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":1,"nuker":0,"pusher":1,"score":204,"support":0}
+{"hero_id":34,"hero_name":"tinker","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":1,"score":67,"support":0}
+{"hero_id":35,"hero_name":"sniper","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":3,"support":0}
+{"hero_id":36,"hero_name":"necrophos","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":11,"support":0}
+{"hero_id":37,"hero_name":"warlock","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":44,"support":1}
+{"hero_id":38,"hero_name":"beastmaster","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":14,"support":0}
+{"hero_id":39,"hero_name":"queen of pain","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":19,"support":0}
+{"hero_id":40,"hero_name":"venomancer","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":1,"score":110,"support":1}
+{"hero_id":41,"hero_name":"faceless void","carry":1,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":29,"support":0}
+{"hero_id":42,"hero_name":"wraith king","carry":1,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":45,"support":1}
+{"hero_id":43,"hero_name":"death prophet","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":1,"score":75,"support":0}
+{"hero_id":44,"hero_name":"phantom assassin","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":17,"support":0}
+{"hero_id":45,"hero_name":"pugna","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":1,"score":66,"support":0}
+{"hero_id":46,"hero_name":"templar assassin","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":17,"support":0}
 {"hero_id":47,"hero_name":"viper","carry":1,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":13,"support":0}
-{"hero_id":48,"hero_name":"luna","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":1,"score":64,"support":0}
-{"hero_id":49,"hero_name":"dragon knight","carry":0,"disabler":0,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":6,"support":0}
-{"hero_id":50,"hero_name":"dazzle","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":10,"support":0}
-{"hero_id":51,"hero_name":"clockwerk","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
-{"hero_id":52,"hero_name":"leshrac","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":41,"support":1}
-{"hero_id":53,"hero_name":"nature's prophet","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":19,"support":0}
-{"hero_id":54,"hero_name":"lifestealer","carry":0,"disabler":1,"escape":1,"initiator":0,"jungler":1,"nuker":0,"pusher":0,"score":152,"support":0}
+{"hero_id":48,"hero_name":"luna","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":1,"score":67,"support":0}
+{"hero_id":49,"hero_name":"dragon knight","carry":1,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":1,"score":79,"support":0}
+{"hero_id":50,"hero_name":"dazzle","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":42,"support":1}
+{"hero_id":51,"hero_name":"clockwerk","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":14,"support":0}
+{"hero_id":52,"hero_name":"leshrac","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":1,"score":107,"support":1}
+{"hero_id":53,"hero_name":"nature's prophet","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":1,"nuker":1,"pusher":1,"score":211,"support":0}
+{"hero_id":54,"hero_name":"lifestealer","carry":1,"disabler":1,"escape":1,"initiator":0,"jungler":1,"nuker":0,"pusher":0,"score":153,"support":0}
 {"hero_id":55,"hero_name":"dark seer","carry":0,"disabler":1,"escape":1,"initiator":1,"jungler":1,"nuker":0,"pusher":0,"score":156,"support":0}
-{"hero_id":56,"hero_name":"clinkz","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":1,"score":64,"support":0}
-{"hero_id":57,"hero_name":"omniknight","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
-{"hero_id":58,"hero_name":"enchantress","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":8,"support":0}
-{"hero_id":59,"hero_name":"huskar","carry":0,"disabler":0,"escape":0,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":4,"support":0}
-{"hero_id":60,"hero_name":"night stalker","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":3,"support":0}
-{"hero_id":61,"hero_name":"broodmother","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":3,"support":0}
-{"hero_id":62,"hero_name":"bounty hunter","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
-{"hero_id":64,"hero_name":"jakiro","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":40,"support":1}
-{"hero_id":65,"hero_name":"batrider","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":16,"support":0}
-{"hero_id":67,"hero_name":"spectre","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":16,"support":0}
-{"hero_id":69,"hero_name":"doom","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":3,"support":0}
-{"hero_id":68,"hero_name":"ancient apparition","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":10,"support":0}
-{"hero_id":70,"hero_name":"ursa","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":1,"nuker":0,"pusher":0,"score":136,"support":0}
-{"hero_id":71,"hero_name":"spirit breaker","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":17,"support":0}
-{"hero_id":72,"hero_name":"gyrocopter","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":10,"support":0}
-{"hero_id":73,"hero_name":"alchemist","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":46,"support":1}
-{"hero_id":74,"hero_name":"invoker","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":1,"score":81,"support":0}
-{"hero_id":75,"hero_name":"silencer","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":35,"support":1}
-{"hero_id":76,"hero_name":"outworld devourer","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":8,"support":0}
-{"hero_id":77,"hero_name":"lycan","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":1,"nuker":0,"pusher":0,"score":144,"support":0}
-{"hero_id":78,"hero_name":"brewmaster","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":3,"support":0}
-{"hero_id":79,"hero_name":"shadow demon","carry":0,"disabler":0,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":6,"support":0}
-{"hero_id":80,"hero_name":"lone druid","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":1,"nuker":0,"pusher":0,"score":128,"support":0}
-{"hero_id":81,"hero_name":"chaos knight","carry":0,"disabler":0,"escape":0,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":4,"support":0}
-{"hero_id":82,"hero_name":"meepo","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":0,"pusher":1,"score":76,"support":0}
+{"hero_id":56,"hero_name":"clinkz","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":1,"score":81,"support":0}
+{"hero_id":57,"hero_name":"omniknight","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":34,"support":1}
+{"hero_id":58,"hero_name":"enchantress","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":1,"nuker":0,"pusher":1,"score":232,"support":1}
+{"hero_id":59,"hero_name":"huskar","carry":1,"disabler":0,"escape":0,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":5,"support":0}
+{"hero_id":60,"hero_name":"night stalker","carry":1,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":15,"support":0}
+{"hero_id":61,"hero_name":"broodmother","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":1,"score":83,"support":0}
+{"hero_id":62,"hero_name":"bounty hunter","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":18,"support":0}
+{"hero_id":63,"hero_name":"weaver","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":17,"support":0}
+{"hero_id":64,"hero_name":"jakiro","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":1,"score":106,"support":1}
+{"hero_id":65,"hero_name":"batrider","carry":0,"disabler":1,"escape":1,"initiator":1,"jungler":1,"nuker":0,"pusher":0,"score":156,"support":0}
+{"hero_id":66,"hero_name":"chen","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":1,"nuker":0,"pusher":1,"score":224,"support":1}
+{"hero_id":67,"hero_name":"spectre","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":17,"support":0}
+{"hero_id":69,"hero_name":"doom","carry":1,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":15,"support":0}
+{"hero_id":68,"hero_name":"ancient apparition","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":42,"support":1}
+{"hero_id":70,"hero_name":"ursa","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":1,"nuker":0,"pusher":0,"score":137,"support":0}
+{"hero_id":71,"hero_name":"spirit breaker","carry":1,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":29,"support":0}
+{"hero_id":72,"hero_name":"gyrocopter","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":11,"support":0}
+{"hero_id":73,"hero_name":"alchemist","carry":1,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":47,"support":1}
+{"hero_id":74,"hero_name":"invoker","carry":1,"disabler":1,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":1,"score":91,"support":0}
+{"hero_id":75,"hero_name":"silencer","carry":1,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":47,"support":1}
+{"hero_id":76,"hero_name":"outworld devourer","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":11,"support":0}
+{"hero_id":77,"hero_name":"lycan","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":1,"nuker":0,"pusher":1,"score":209,"support":0}
+{"hero_id":78,"hero_name":"brewmaster","carry":1,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":15,"support":0}
+{"hero_id":79,"hero_name":"shadow demon","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":46,"support":1}
+{"hero_id":80,"hero_name":"lone druid","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":1,"nuker":0,"pusher":1,"score":193,"support":0}
+{"hero_id":81,"hero_name":"chaos knight","carry":1,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":0,"pusher":1,"score":77,"support":0}
+{"hero_id":82,"hero_name":"meepo","carry":1,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":1,"pusher":1,"score":95,"support":0}
 {"hero_id":83,"hero_name":"treant protector","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":16,"support":0}
-{"hero_id":84,"hero_name":"ogre magi","carry":0,"disabler":0,"escape":0,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":4,"support":0}
+{"hero_id":84,"hero_name":"ogre magi","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":46,"support":1}
 {"hero_id":85,"hero_name":"undying","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":42,"support":1}
-{"hero_id":86,"hero_name":"rubick","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":10,"support":0}
-{"hero_id":87,"hero_name":"disruptor","carry":0,"disabler":0,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":6,"support":0}
-{"hero_id":88,"hero_name":"nyx assassin","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":16,"support":0}
-{"hero_id":89,"hero_name":"naga siren","carry":0,"disabler":0,"escape":1,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":52,"support":1}
-{"hero_id":90,"hero_name":"keeper of the light","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":1,"nuker":0,"pusher":0,"score":136,"support":0}
-{"hero_id":91,"hero_name":"io","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
-{"hero_id":92,"hero_name":"visage","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":1,"score":104,"support":1}
-{"hero_id":93,"hero_name":"slark","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":10,"support":0}
-{"hero_id":94,"hero_name":"medusa","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":8,"support":0}
-{"hero_id":95,"hero_name":"troll warlord","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":1,"score":72,"support":0}
-{"hero_id":96,"hero_name":"centaur warrunner","carry":0,"disabler":1,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":26,"support":0}
-{"hero_id":97,"hero_name":"magnus","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":18,"support":0}
-{"hero_id":99,"hero_name":"bristleback","carry":0,"disabler":0,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":6,"support":0}
-{"hero_id":100,"hero_name":"tusk","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
-{"hero_id":101,"hero_name":"skywrath mage","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":8,"support":0}
-{"hero_id":102,"hero_name":"abaddon","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":1,"support":0}
-{"hero_id":103,"hero_name":"elder titan","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":10,"support":0}
-{"hero_id":104,"hero_name":"legion commander","carry":1,"disabler":0,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":7,"support":0}
-{"hero_id":106,"hero_name":"ember spirit","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":14,"support":0}
-{"hero_id":107,"hero_name":"earth spirit","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":12,"support":0}
-{"hero_id":109,"hero_name":"terrorblade","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
-{"hero_id":110,"hero_name":"phoenix","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":40,"support":1}
-{"hero_id":111,"hero_name":"oracle","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":16,"support":0}
-{"hero_id":105,"hero_name":"techies","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":8,"support":0}
-{"hero_id":112,"hero_name":"winter wyvern","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
-{"hero_id":113,"hero_name":"arc warden","carry":0,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":2,"support":0}
-{"hero_id":108,"hero_name":"underlord","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":42,"support":1}
-{"hero_id":114,"hero_name":"monkey king","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":12,"support":0}
-{"hero_id":120,"hero_name":"pangolier","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":8,"support":0}
-{"hero_id":119,"hero_name":"dark willow","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":8,"support":0}
+{"hero_id":86,"hero_name":"rubick","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":42,"support":1}
+{"hero_id":87,"hero_name":"disruptor","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":46,"support":1}
+{"hero_id":88,"hero_name":"nyx assassin","carry":0,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":30,"support":0}
+{"hero_id":89,"hero_name":"naga siren","carry":1,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":0,"pusher":1,"score":125,"support":1}
+{"hero_id":90,"hero_name":"keeper of the light","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":1,"nuker":1,"pusher":0,"score":170,"support":1}
+{"hero_id":91,"hero_name":"io","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":50,"support":1}
+{"hero_id":92,"hero_name":"visage","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":1,"score":106,"support":1}
+{"hero_id":93,"hero_name":"slark","carry":1,"disabler":1,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":27,"support":0}
+{"hero_id":94,"hero_name":"medusa","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":9,"support":0}
+{"hero_id":95,"hero_name":"troll warlord","carry":1,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":1,"score":73,"support":0}
+{"hero_id":96,"hero_name":"centaur warrunner","carry":0,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":30,"support":0}
+{"hero_id":97,"hero_name":"magnus","carry":0,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":30,"support":0}
+{"hero_id":98,"hero_name":"timbersaw","carry":0,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":18,"support":0}
+{"hero_id":99,"hero_name":"bristleback","carry":1,"disabler":0,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":7,"support":0}
+{"hero_id":100,"hero_name":"tusk","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":14,"support":0}
+{"hero_id":101,"hero_name":"skywrath mage","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":42,"support":1}
+{"hero_id":102,"hero_name":"abaddon","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":0,"pusher":0,"score":33,"support":1}
+{"hero_id":103,"hero_name":"elder titan","carry":0,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":14,"support":0}
+{"hero_id":104,"hero_name":"legion commander","carry":1,"disabler":1,"escape":0,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":15,"support":0}
+{"hero_id":106,"hero_name":"ember spirit","carry":1,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":31,"support":0}
+{"hero_id":107,"hero_name":"earth spirit","carry":0,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":30,"support":0}
+{"hero_id":109,"hero_name":"terrorblade","carry":1,"disabler":0,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":1,"score":67,"support":0}
+{"hero_id":110,"hero_name":"phoenix","carry":0,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":62,"support":1}
+{"hero_id":111,"hero_name":"oracle","carry":0,"disabler":1,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":58,"support":1}
+{"hero_id":105,"hero_name":"techies","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":10,"support":0}
+{"hero_id":112,"hero_name":"winter wyvern","carry":0,"disabler":1,"escape":0,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":42,"support":1}
+{"hero_id":113,"hero_name":"arc warden","carry":1,"disabler":0,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":19,"support":0}
+{"hero_id":108,"hero_name":"underlord","carry":0,"disabler":1,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":58,"support":1}
+{"hero_id":114,"hero_name":"monkey king","carry":1,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":0,"pusher":0,"score":29,"support":0}
+{"hero_id":120,"hero_name":"pangolier","carry":1,"disabler":1,"escape":1,"initiator":1,"jungler":0,"nuker":1,"pusher":0,"score":31,"support":0}
+{"hero_id":119,"hero_name":"dark willow","carry":0,"disabler":1,"escape":1,"initiator":0,"jungler":0,"nuker":1,"pusher":0,"score":58,"support":1}

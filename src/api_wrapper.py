@@ -3,6 +3,7 @@ from sys import stdout
 import dota2api
 from dota2api.src.exceptions import APIAuthenticationError, APIError
 import time
+from requests.exceptions import ConnectionError
 from scrape_dota_buff import scrape_player, scrape_hero_monthly_stats
 
 
@@ -28,6 +29,23 @@ heroes_dict = api.get_heroes()
 items_dict = api.get_game_items()
 heroes_stats_dict = scrape_hero_monthly_stats()
 
+# save heroes data
+print("[+] Saving heroes data")
+with open('data/heroes.json', 'w') as fp:
+    json.dump(heroes_dict, fp)
+
+# save items data
+print("[+] Saving items data")
+with open('data/items.json', 'w') as fp:
+    json.dump(items_dict, fp)
+
+
+# save hero stats
+print("[+] Saving hero monthly stats")
+with open('data/hero_monthly_stats.json', 'w') as fp:
+    json.dump(heroes_stats_dict, fp)
+
+
 original_data_size = data_size * 1.0
 
 while data_size > 0:
@@ -44,6 +62,13 @@ while data_size > 0:
         data_size -= 1
     except APIError:
         pass
+    
+
+# save match data
+print("\n[+] Saving match data")
+with open('data/match.json', 'w') as fp:
+    json.dump(match_dict, fp)
+
 
 player_stats = {}
 
@@ -70,27 +95,7 @@ for key in match_dict:
         except KeyError:
             pass
 
-# save match data
-print("\n[+] Saving match data")
-with open('data/match.json', 'w') as fp:
-    json.dump(match_dict, fp)
-
-# save heroes data
-print("[+] Saving heroes data")
-with open('data/heroes.json', 'w') as fp:
-    json.dump(heroes_dict, fp)
-
-# save items data
-print("[+] Saving items data")
-with open('data/items.json', 'w') as fp:
-    json.dump(items_dict, fp)
-
 # save player stats
 print("[+] Saving player stats")
 with open('data/player_stats.json', 'w') as fp:
     json.dump(player_stats, fp)
-
-# save hero stats
-print("[+] Saving hero monthly stats")
-with open('data/hero_monthly_stats.json', 'w') as fp:
-    json.dump(heroes_stats_dict, fp)
