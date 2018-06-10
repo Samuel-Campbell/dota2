@@ -62,7 +62,7 @@ while data_size > 0:
         data_size -= 1
     except APIError:
         pass
-    
+
 
 # save match data
 print("\n[+] Saving match data")
