@@ -154,3 +154,23 @@ Supports are paired with the team's carry at the start of a game. This is becaus
 |{{HeroIcon|lifestealer}}{{HeroIcon|lycan}}{{HeroIcon|sk}}{{HeroIcon|bs}}{{HeroIcon|ld}}{{HeroIcon|ursa}}{{HeroIcon|cm}}{{HeroIcon|ds}}<br>{{HeroIcon|kotl}}
 |}
 
+==={{Durable}}===
+----
+<big>''"Has the ability to last longer in teamfights."''</big>
+
+'''Durable''' heroes are capable of sustaining large amounts of incoming damage. They tend to have high [[HP]], [[HP regeneration]], [[healing]], [[magic resistance]], or [[status resistance]]. They often have abilities to. Strength heroes are well known to fulfill this role because their primary [[Strength]] attribute innately grants HP and status resistance.
+
+{| class="wikitable"
+!colspan=8| ■■■ Durable
+|-
+|{{HeroIcon|axe}}{{HeroIcon|bb}}{{HeroIcon|cent}}{{HeroIcon|tide}}{{HeroIcon|wk}}
+|-
+!colspan=8| ■■ Durable
+|-
+|{{HeroIcon|abaddon}}{{HeroIcon|alch}}{{HeroIcon|beast}}{{HeroIcon|brew}}{{HeroIcon|ck}}{{HeroIcon|doom}}{{HeroIcon|dk}}{{HeroIcon|husk}}<br>{{HeroIcon|ls}}{{HeroIcon|ns}}{{HeroIcon|pudge}}{{HeroIcon|slar}}{{HeroIcon|sb}}{{HeroIcon|sven}}{{HeroIcon|timber}}{{HeroIcon|tiny}}<br>{{HeroIcon|undying}}{{HeroIcon|morph}}{{HeroIcon|razor}}{{HeroIcon|viper}}
+|-
+!colspan=8| ■ Durable
+|-
+|{{HeroIcon|clock}}{{HeroIcon|earth}}{{HeroIcon|et}}{{HeroIcon|kunkka}}{{HeroIcon|lc}}{{HeroIcon|lycan}}{{HeroIcon|omni}}{{HeroIcon|tree}}<br>{{HeroIcon|void}}{{HeroIcon|ld}}{{HeroIcon|dusa}}{{HeroIcon|spectre}}{{HeroIcon|troll}}{{HeroIcon|ursa}}{{HeroIcon|bane}}{{HeroIcon|ench}}<br>{{HeroIcon|necro}}{{HeroIcon|ogre}}{{HeroIcon|underlord}}{{HeroIcon|visage}}{{HeroIcon|pangolier}}
+|}
+
