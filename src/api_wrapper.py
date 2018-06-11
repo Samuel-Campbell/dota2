@@ -6,15 +6,16 @@ import time
 from requests.exceptions import ConnectionError
 from scrape_dota_buff import scrape_player, scrape_hero_monthly_stats
 
-
+"""
 # API key can be found here https://steamcommunity.com/dev/apikey
 api_key = "78AB51DECA9BAA091DC09D0FEFED65EE"
 
 # random recent match ID to start collecting information from in descending order
-latest_match_id = 3933473953
+latest_match_id = 3933443953
 
 # desired size of data set
-data_size = 1000
+data_size = 500
+original_data_size = data_size * 1.0
 
 try:
     # init key from environment variables
@@ -24,7 +25,11 @@ except APIAuthenticationError:
     # init key from api_key variable
     api = dota2api.Initialise(api_key=api_key)
 
-match_dict = {}
+try:
+    with open('data/match.json') as fp:
+        match_dict = json.load(fp)
+except:
+    match_dict = {}
 heroes_dict = api.get_heroes()
 items_dict = api.get_game_items()
 heroes_stats_dict = scrape_hero_monthly_stats()
@@ -46,8 +51,6 @@ with open('data/hero_monthly_stats.json', 'w') as fp:
     json.dump(heroes_stats_dict, fp)
 
 
-original_data_size = data_size * 1.0
-
 while data_size > 0:
     latest_match_id = latest_match_id - 1
 
@@ -63,14 +66,21 @@ while data_size > 0:
     except APIError:
         pass
 
+    except ConnectionError:
+        pass
+
 
 # save match data
 print("\n[+] Saving match data")
 with open('data/match.json', 'w') as fp:
     json.dump(match_dict, fp)
+"""
 
-
-player_stats = {}
+try:
+    with open('data/player_stats.json') as fp:
+        player_stats = json.load(fp)
+except:
+    player_stats = {}
 
 with open('data/match.json') as fp:
     match_dict = json.load(fp)
@@ -83,12 +93,16 @@ for key in match_dict:
         time.sleep(1)
         try:
             account_id = player['account_id']
-            player_info = scrape_player(account_id)
-            player_stats[account_id] = player_info
+            if account_id in player_stats:
+                pass
 
-            percent = (i / (data_size * 10)) * 100
-            stdout.write("\r[+] Data Scraped (percent): %f " % percent)
-            stdout.flush()
+            else:
+                player_info = scrape_player(account_id)
+                player_stats[account_id] = player_info
+
+                percent = (i / (len(match_dict) * 10)) * 100
+                stdout.write("\r[+] Data Scraped (percent): %f " % percent)
+                stdout.flush()
 
             i += 1
 
@@ -99,3 +113,4 @@ for key in match_dict:
 print("[+] Saving player stats")
 with open('data/player_stats.json', 'w') as fp:
     json.dump(player_stats, fp)
+
