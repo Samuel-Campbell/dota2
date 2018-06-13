@@ -1,4 +1,5 @@
 # 0. Project Overview 
+![alt text](https://cdn-images-1.medium.com/max/1191/0*vbw4wQW_Xq2_3eOo.jpg "Logo Title Text 1")  
 ## 0.1 What is DOTA?  
 [DOTA](https://en.wikipedia.org/wiki/Dota_2) is an online multiplayer game which stands for Defense of the Ancients. The game is developped and published by valve and represents the second iteration of its kind. Originally, the game was developped by someone with the alias: "[IceFrog](https://dota2.gamepedia.com/IceFrog)" who published DOTA through a community-created mod using the Warcraft III engine.  
 
@@ -26,8 +27,7 @@ Drafting is known to be an art in the DOTA community since it is so difficult to
 This research aims to find statistical evidence which will suggest to players which hero they should play/draft in order to maximize chances at victory.  
 
 ## 0.5 Questions
-1. Given the hero selection screen, where some heros might already be drafted, which kind of should be drafted next to maximize victory? (Heros come in different kinds or with different roles)
-2. Given a certain kind of hero, which one of these should be drafted given the players performances and experience?
+1. Is it possible to predict which team will win by the end of the drafting phase?
 
 ## 0.6 Hypothesis & Expectations
 1. The margin by which a team wins matters since we want to maximize the odds of victory (a conclusive and convincing victory). Therefore a heuristic needs to be found for player performance. 
