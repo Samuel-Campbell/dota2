@@ -30,6 +30,6 @@ This research aims to find statistical evidence which will suggest to players wh
 1. Is it possible to predict which team will win by the end of the drafting phase?
 
 ## 0.6 Hypothesis & Expectations
-1. The margin by which a team wins matters since we want to maximize the odds of victory (a conclusive and convincing victory). Therefore a heuristic needs to be found for player performance. 
-2. With only 1000 matches there are a maximum of 10 000 unique players which is a lot of data to process for a notebook but not sufficient for a full research.
+1. The margin by which a team wins does not matters. 
+2. With only 10 000 matches there are a maximum of 100 000 unique players which is a lot of data to process for a notebook but not sufficient for a full research.
 3. Players have a match making rating thus regrouping players of similar skills into the same matches. Despite some players climbing up or down the ladder to have their MMR reflect their skills, I assume that most players are ranked appropriately. This is important because we don't want ace/smurf players to skew the results by playing well with bad team compositions.

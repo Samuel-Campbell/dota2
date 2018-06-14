@@ -6,7 +6,7 @@ import time
 from requests.exceptions import ConnectionError
 from scrape_dota_buff import scrape_player, scrape_hero_monthly_stats
 
-"""
+
 # API key can be found here https://steamcommunity.com/dev/apikey
 api_key = "78AB51DECA9BAA091DC09D0FEFED65EE"
 
@@ -74,7 +74,7 @@ while data_size > 0:
 print("\n[+] Saving match data")
 with open('data/match.json', 'w') as fp:
     json.dump(match_dict, fp)
-"""
+
 
 try:
     with open('data/player_stats.json') as fp:
